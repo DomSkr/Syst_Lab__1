@@ -1,0 +1,4 @@
+log0001, qwerty, Jan Kowalski
+log0002, poiuyt, Michał Nowak
+log0003, asdfgh, Jadwiga Kisiel
+log0004, zxcvbn, Wioletta Dręba
